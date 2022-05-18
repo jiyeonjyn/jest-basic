@@ -2,7 +2,7 @@
 
 ## Unit test and TDD
 
-- Test Pyramid
+- Test Pyramid : Unit test > Integration test > E2E test
 - TDD(Test Driven Development)
   - Create a failing test and implement features
 
