@@ -13,7 +13,7 @@
 - [https://jestjs.io/](https://jestjs.io/)
   ```bash
   $ npm init --yes
-  $ (sudo) npm install jest --global
+  $ npm install jest --global
   $ npm install --save-dev jest
   $ npm run test
   $ npm run test [실행하려는 테스트 파일]
